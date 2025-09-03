@@ -148,8 +148,3 @@ Distribuido bajo la MIT License. Consulta `LICENSE` para más información.
 
 ---
 
-## Notas
-
-* Personaliza TU-USUARIO y REPO-NAME en este README.
-* Añade tu captura de la landing en `assets/demo.png` para que el preview funcione.
-* Si usas `python` vs `python3` depende de tu sistema; ajústalo según corresponda.
