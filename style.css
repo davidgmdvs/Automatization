@@ -1,0 +1,28 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.code-block {
+  background-color: #2d2d2d;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  color: #f8f8f2;
+  font-family: 'Courier New', monospace;
+  overflow-x: auto;
+}
+
+.keyword {
+  color: #f92672;
+}
+
+.function {
+  color: #66d9ef;
+}
+
+.string {
+  color: #e6db74;
+}
+
+.comment {
+  color: #75715e;
+}
